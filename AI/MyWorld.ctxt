@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\n\ Grid\ \n\ \n\ @author\ Jack\ Wang\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=MyWorld()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\n\ \n
+comment2.params=
+comment2.target=void\ startTraversal()
+comment3.params=nodeX\ nodeY\ current
+comment3.target=void\ searchNeighbors(int,\ int,\ Node)
+comment4.params=x\ y
+comment4.target=boolean\ isObstacle(int,\ int)
+comment5.params=
+comment5.target=void\ findPath()
+numComments=6
